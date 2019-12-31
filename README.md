@@ -1,3 +1,7 @@
+_This repo is for studying purposes._
+
+
+
 ## HYF-JAVASCRIPT MODULE 1
 
 Learning objective: Javascript basics
