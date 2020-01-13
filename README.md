@@ -1,11 +1,16 @@
-_This repo is for studying purposes._
+_Javascript repositories for studying._
 
 
+## HYF-JAVASCRIPT MODULES
 
-## HYF-JAVASCRIPT MODULE 1
+Module JS-1 
+- https://github.com/hakanErgin/hyf-javascript1
+- https://github.com/hakanErgin/javascript-1-cross-module
+- https://github.com/hakanErgin/javascript-1-homework
 
-Learning objective: Javascript basics
+Module JS-2 
+- https://github.com/hakanErgin/HackYourFuture-Javascript2
 
-- [FCC exercises](https://www.freecodecamp.org/)
-- [Janke learning](https://www.https://github.com/janke-learning/)
-
+Module JS-3 
+- https://github.com/hakanErgin/javascript-3
+- https://github.com/hakanErgin/javascript-3-homework
